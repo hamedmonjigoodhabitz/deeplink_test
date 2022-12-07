@@ -1,4 +1,6 @@
 # deeplink_test
 testing deeplinks
 
-[this should open app if installed or route to store for installtion](https://goodhabitz.page.link/debug)
+[dyanmic link](https://goodhabitz.page.link/debug)
+
+[website](https://goodhabitz.com)
