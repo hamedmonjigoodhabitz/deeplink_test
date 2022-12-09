@@ -3,9 +3,6 @@ testing deeplinks
 
 [dyanmic link](https://goodhabitz.page.link/AY2a)
 
+[goodhabitz](https://goodhabitz.com)
 
-[test website](https://hamedmonjigoodhabitz.github.io)
-
-[test website ngork](https://97bb-144-178-86-244.eu.ngrok.io)
-
-[website](https://goodhabitz.com)
+[my.goodhabitz](https://my.goodhabitz.com)
