@@ -1,7 +1,7 @@
 # deeplink_test
 testing deeplinks
 
-[dyanmic link](https://goodhabitz.page.link/debug)
+[dyanmic link](https://goodhabitz.page.link/AY2a)
 
 
 [test website](https://hamedmonjigoodhabitz.github.io)
