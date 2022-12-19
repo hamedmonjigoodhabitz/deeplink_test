@@ -9,4 +9,4 @@ testing deeplinks
 
 [goodhabitz](https://goodhabitz.com)
 
-[my.goodhabitz](https://my.goodhabitz.com)
+[my.goodhabitz](https://my.goodhabitz.com/login)
