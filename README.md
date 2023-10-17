@@ -10,3 +10,5 @@ testing deeplinks
 [goodhabitz](https://goodhabitz.com)
 
 [my.goodhabitz](https://my.goodhabitz.com/login)
+
+[link to course on acceptance](https://website-acceptance.goodhabitz.com/en-gb/courses/65786-branding-professionals)
