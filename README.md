@@ -13,4 +13,4 @@ testing deeplinks
 
 [link to course on acceptance](https://website-acceptance.goodhabitz.com/en-gb/courses/65786-branding-professionals)
 
-[link to course dutch acceotabce](https://website-acceptance.goodhabitz.com/nl-nl/personal-courses.html)
+[link to course dutch acceotabce](https://website-acceptance.goodhabitz.com/nl-nl/courses/35620-messcherp-onderhandelen)
