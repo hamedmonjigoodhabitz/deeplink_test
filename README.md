@@ -20,3 +20,4 @@ testing deeplinks
 [link to course dutch acceotabce](https://website-acceptance.goodhabitz.com/nl-nl/courses/35620-messcherp-onderhandelen)
 
 [acceptance magazine activity](https://website-acceptance.goodhabitz.com/en-gb/courses/7970-i-feel-good/ghcc/a96cca73-e76a-481e-be14-1fdc18e54cc6)
+[prod activity](https://my.goodhabitz.com/en-gb/courses/18090-i-want-that-job/gh/30b1f9e0-4459-4356-aae3-ada7640d41e8)
