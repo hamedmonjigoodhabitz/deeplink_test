@@ -21,4 +21,6 @@ testing deeplinks
 
 [acceptance magazine activity](https://website-acceptance.goodhabitz.com/en-gb/courses/7970-i-feel-good/ghcc/a96cca73-e76a-481e-be14-1fdc18e54cc6)
 
+[acceptance native video activity](https://website-acceptance.goodhabitz.com/nl-nl/courses/79291-diversiteit-en-inclusie/gh/c25cb1a1-3402-4cb6-ac44-3d6d5ffb4208)
+
 [prod activity](https://my.goodhabitz.com/en-gb/courses/7970-i-want-that-job/gh/a96cca73-e76a-481e-be14-1fdc18e54cc6)
